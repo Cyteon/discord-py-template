@@ -1,0 +1,8 @@
+aiohttp
+deep_translator
+discord.py
+lavalink
+pickleDB
+pymongo
+python-dotenv
+redis
